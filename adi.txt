@@ -1,6 +1,1 @@
-<html>
-<head>XSS</head>
-<title></title>
-<body><script>alert("takeover-done")</script>
-</body>
-</html>
+create by adi
